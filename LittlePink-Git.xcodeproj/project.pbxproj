@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2816B02F259790BB0040D2F6 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 2816B02E259790BB0040D2F6 /* .gitignore */; };
 		283165162597857100287A54 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 283165152597857100287A54 /* AppDelegate.swift */; };
 		283165182597857100287A54 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 283165172597857100287A54 /* SceneDelegate.swift */; };
 		2831651A2597857100287A54 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 283165192597857100287A54 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2816B02E259790BB0040D2F6 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		283165122597857100287A54 /* LittlePink-Git.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "LittlePink-Git.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		283165152597857100287A54 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		283165172597857100287A54 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +42,7 @@
 		283165092597857100287A54 = {
 			isa = PBXGroup;
 			children = (
+				2816B02E259790BB0040D2F6 /* .gitignore */,
 				283165142597857100287A54 /* LittlePink-Git */,
 				283165132597857100287A54 /* Products */,
 			);
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2816B02F259790BB0040D2F6 /* .gitignore in Resources */,
 				283165222597857200287A54 /* LaunchScreen.storyboard in Resources */,
 				2831651F2597857200287A54 /* Assets.xcassets in Resources */,
 				2831651D2597857100287A54 /* Main.storyboard in Resources */,
